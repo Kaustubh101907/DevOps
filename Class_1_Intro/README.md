@@ -25,21 +25,21 @@
     -> M = Measurement
     -> S = Sharing
     
-        1. Culture -> Talk to other people.
+    1. Culture -> Talk to other people.
             -> People over Process over Tools.
 
-        2. Automation -> not just Chef or Puppet or Pulumi or Terraform.
+    2. Automation -> not just Chef or Puppet or Pulumi or Terraform.
             -> Thousands of servers are impossible to manage, but the question is do you really need thousands of servers?
             -> How much do you automate?
             -> Should you automate?
 
             We should only switch on to another tool if and only if it is needed. We should not automate because some other person is using some other tech.
 
-        3. Measurement -> measure to improve.
+    3. Measurement -> measure to improve.
             -> It is not about infrastructure management, business measure, client activity and other pointers.
             -> Recovery time and cycle time are obvious but its important to measure and incentivise it.
 
-        4. Sharing -> share your goals.
+    4. Sharing -> share your goals.
             -> Share responsibility, share ownership.
             -> There shall be no escape goat.
             -> Feedback loop is important.
